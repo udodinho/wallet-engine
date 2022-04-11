@@ -57,7 +57,7 @@ func LoadConfig() (string, string, string, string, string, string, string, strin
 
 func LoadEnv(path string) (config ConfigStruct, err error) {
 	viper.AddConfigPath(path)
-	viper.SetConfigName("barafiri-transaction-service")
+	viper.SetConfigName("opay-wallet-engine")
 	viper.SetConfigType("env")
 
 	viper.AutomaticEnv()
