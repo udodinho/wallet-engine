@@ -96,7 +96,7 @@ func (h *HttpHandler) CreditWallet() gin.HandlerFunc {
 			hashPass = user.HashedSecretKey
 			isUserActive = user.IsActive
 		}
-		if confirmedPass := helpers.CompareHashPassword(transaction.Password, []byte(hashPass)); !confirmedPass {
+		if confirmedPass := helpers.CompareHashPassword(transaction.Password, []byte(hashPass)); confirmedPass {
 			response.JSON(ctx, "Password does not match", http.StatusBadRequest, nil)
 			return
 		}
@@ -173,7 +173,7 @@ func (h *HttpHandler) DebitWallet() gin.HandlerFunc {
 			isUserActive = user.IsActive
 		}
 
-		if confirmedPass := helpers.CompareHashPassword(transaction.Password, []byte(hashPass)); !confirmedPass {
+		if confirmedPass := helpers.CompareHashPassword(transaction.Password, []byte(hashPass)); confirmedPass {
 			response.JSON(ctx, "Password does not match", http.StatusBadRequest, nil)
 			return
 		}
