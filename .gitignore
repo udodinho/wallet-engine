@@ -1,3 +1,4 @@
 .idea
 opay-wallet-engine.env
-*.logs
+*logs
+mock
