@@ -61,7 +61,7 @@ func (m *MongoRepository) CheckPassword(userRef string) ([]*wallet.User, error) 
 func (m *MongoRepository) GetBalance(userID string) ([]*wallet.Wallet, error) {
 	helpers.LogEvent("INFO", fmt.Sprintf("Getting balance for user..."))
 	coll := m.Client.Database("opay").Collection("account-balance")
-	filter := bson.D{{"reference", userID}}
+	filter := bson.D{{"user_id", userID}}
 	cursor, err := coll.Find(context.TODO(), filter)
 	if err != nil {
 		panic(err)
@@ -82,7 +82,7 @@ func (m *MongoRepository) ChangeStatus(isActive bool, userRef string) (interface
 	opts := options.Update().SetUpsert(true)
 	update := bson.D{
 		{"$set", bson.D{
-			{"isActive", isActive},
+			{"is_active", isActive},
 		}},
 	}
 	value, err := coll.UpdateOne(context.TODO(), filter, update, opts)
