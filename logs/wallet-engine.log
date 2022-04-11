@@ -1,0 +1,156 @@
+
+{"time_stamp":"2022-04-10T15:57:45+01:00","level":"Info","message":"started wallet-engine application on http://localhost:40280 in 177ns"}
+{"time_stamp":"2022-04-10T15:58:50+01:00","level":"Info","message":"started wallet-engine application on http://localhost:8000 in 178ns"}
+{"time_stamp":"2022-04-10T16:34:04+01:00","level":"Info","message":"started wallet-engine application on http://localhost:8000 in 236ns"}
+{"time_stamp":"2022-04-10T17:41:13+01:00","level":"Info","message":"started wallet-engine application on http://localhost:8000 in 191ns"}
+here
+{"time_stamp":"2022-04-10T17:45:02+01:00","level":"Info","message":"started wallet-engine application on http://localhost:8000 in 238ns"}
+{"time_stamp":"2022-04-10T17:45:07+01:00","level":"INFO","message":"Getting user by email..."}
+{"time_stamp":"2022-04-10T17:45:07+01:00","level":"INFO","message":"Found kjames@g.com number of users"}
+{"time_stamp":"2022-04-10T17:45:07+01:00","level":"INFO","message":"Wallet \u0026{f3c7609c-3a47-4214-b158-e9958931693a Kunle James kjames@g.com NGN  $2a$10$VtIO21xRRGIgS0YTJSV/MesspyD5dg7h/gCUAMpjfNU6Do2qnfgIe  2022-04-10 16:45:07.715801 +0000 UTC false} created successfully"}
+{"time_stamp":"2022-04-10T17:46:40+01:00","level":"INFO","message":"Getting user by email..."}
+{"time_stamp":"2022-04-10T17:46:40+01:00","level":"INFO","message":"Found kjames@g.com number of users"}
+{"time_stamp":"2022-04-10T17:46:40+01:00","level":"INFO","message":"Wallet \u0026{e3102095-fde1-4cac-ac91-9e605ef6bbd7 Kunle James kjames@g.com NGN  $2a$10$OlMXrQ5XQZl.El5E6qZrtenjNEPJSWjmbE7BbncDg0oBNRW4WqpVi 01-01-2006 2022-04-10 16:46:40.882044 +0000 UTC false} created successfully"}
+{"time_stamp":"2022-04-10T22:56:39+01:00","level":"Info","message":"started wallet-engine application on http://localhost:8000 in 166ns"}
+here
+{"time_stamp":"2022-04-10T22:57:25+01:00","level":"INFO","message":"Checking user password..."}
+{"time_stamp":"2022-04-10T22:57:25+01:00","level":"INFO","message":"Found  number of users"}
+{"time_stamp":"2022-04-10T22:58:15+01:00","level":"INFO","message":"Checking user password..."}
+{"time_stamp":"2022-04-10T22:58:15+01:00","level":"INFO","message":"Found  number of users"}
+{"time_stamp":"2022-04-10T23:00:31+01:00","level":"Info","message":"started wallet-engine application on http://localhost:8000 in 194ns"}
+{"time_stamp":"2022-04-10T23:00:37+01:00","level":"INFO","message":"Checking user password..."}
+{"time_stamp":"2022-04-10T23:00:37+01:00","level":"INFO","message":"Found  number of users"}
+{"time_stamp":"2022-04-10T23:04:59+01:00","level":"Info","message":"started wallet-engine application on http://localhost:8000 in 277ns"}
+{"time_stamp":"2022-04-10T23:06:38+01:00","level":"Info","message":"started wallet-engine application on http://localhost:8000 in 124ns"}
+here
+here
+{"time_stamp":"2022-04-10T23:11:49+01:00","level":"Info","message":"started wallet-engine application on http://localhost:8000 in 241ns"}
+{"time_stamp":"2022-04-10T23:11:55+01:00","level":"INFO","message":"Status changed."}
+{"time_stamp":"2022-04-10T23:16:41+01:00","level":"INFO","message":"Status changed."}
+{"time_stamp":"2022-04-10T23:18:21+01:00","level":"INFO","message":"Status changed."}
+{"time_stamp":"2022-04-10T23:20:54+01:00","level":"INFO","message":"Status changed."}
+{"time_stamp":"2022-04-10T23:21:06+01:00","level":"INFO","message":"Status changed."}
+{"time_stamp":"2022-04-10T23:21:20+01:00","level":"INFO","message":"Status changed."}
+{"time_stamp":"2022-04-10T23:23:38+01:00","level":"Info","message":"started wallet-engine application on http://localhost:8000 in 229ns"}
+{"time_stamp":"2022-04-10T23:44:40+01:00","level":"Info","message":"started wallet-engine application on http://localhost:8000 in 121ns"}
+{"time_stamp":"2022-04-10T23:45:00+01:00","level":"INFO","message":"Getting user by email..."}
+{"time_stamp":"2022-04-10T23:45:00+01:00","level":"INFO","message":"Found kjames@g.com number of users"}
+{"time_stamp":"2022-04-10T23:45:01+01:00","level":"INFO","message":"Wallet \u0026{8bacf00c-7694-4532-baf3-24ce637b6786 Kunle James kjames@g.com NGN  $2a$10$48FuDuyjwfyghWK.B9Z4wuLIBaoborFM9OjIws3nCqXvToUpCqr/C 01-01-2006 2022-04-10 22:45:00.924213 +0000 UTC false} created successfully"}
+{"time_stamp":"2022-04-10T23:45:50+01:00","level":"INFO","message":"Status changed."}
+{"time_stamp":"2022-04-10T23:46:18+01:00","level":"INFO","message":"Status changed."}
+{"time_stamp":"2022-04-10T23:47:48+01:00","level":"INFO","message":"Status changed."}
+{"time_stamp":"2022-04-10T23:49:51+01:00","level":"INFO","message":"Status changed."}
+{"time_stamp":"2022-04-10T23:50:00+01:00","level":"INFO","message":"Status changed."}
+{"time_stamp":"2022-04-11T09:04:53+01:00","level":"Info","message":"started wallet-engine application on http://localhost:8000 in 174ns"}
+{"time_stamp":"2022-04-11T09:05:10+01:00","level":"INFO","message":"Status changed."}
+{"time_stamp":"2022-04-11T09:06:50+01:00","level":"INFO","message":"Status changed."}
+{"time_stamp":"2022-04-11T09:08:19+01:00","level":"INFO","message":"Checking user password..."}
+{"time_stamp":"2022-04-11T09:08:19+01:00","level":"INFO","message":"Found  number of users"}
+{"time_stamp":"2022-04-11T09:13:56+01:00","level":"INFO","message":"Checking user password..."}
+{"time_stamp":"2022-04-11T09:13:56+01:00","level":"INFO","message":"Found  number of users"}
+{"time_stamp":"2022-04-11T09:15:45+01:00","level":"Info","message":"started wallet-engine application on http://localhost:8000 in 150ns"}
+{"time_stamp":"2022-04-11T09:40:39+01:00","level":"Info","message":"started wallet-engine application on http://localhost:8000 in 173ns"}
+{"time_stamp":"2022-04-11T09:40:43+01:00","level":"INFO","message":"Checking user password..."}
+{"time_stamp":"2022-04-11T09:40:43+01:00","level":"INFO","message":"Found 8bacf00c-7694-4532-baf3-24ce637b6786 number of users"}
+true
+{"time_stamp":"2022-04-11T09:40:43+01:00","level":"INFO","message":"Getting balance for user..."}
+{"time_stamp":"2022-04-11T09:40:43+01:00","level":"INFO","message":"Got the balance of 8bacf00c-7694-4532-baf3-24ce637b6786 successfully"}
+{"time_stamp":"2022-04-11T09:40:43+01:00","level":"INFO","message":"Transaction saved successfully"}
+{"time_stamp":"2022-04-11T09:40:43+01:00","level":"INFO","message":"Transaction posted successfully."}
+{"time_stamp":"2022-04-11T09:57:17+01:00","level":"INFO","message":"Checking user password..."}
+{"time_stamp":"2022-04-11T09:57:17+01:00","level":"INFO","message":"Found 8bacf00c-7694-4532-baf3-24ce637b6786 number of users"}
+{"time_stamp":"2022-04-11T09:57:17+01:00","level":"INFO","message":"Getting balance for user..."}
+{"time_stamp":"2022-04-11T09:57:17+01:00","level":"INFO","message":"Got the balance of 8bacf00c-7694-4532-baf3-24ce637b6786 successfully"}
+{"time_stamp":"2022-04-11T09:57:54+01:00","level":"INFO","message":"Checking user password..."}
+{"time_stamp":"2022-04-11T09:57:54+01:00","level":"INFO","message":"Found 8bacf00c-7694-4532-baf3-24ce637b6786 number of users"}
+{"time_stamp":"2022-04-11T09:57:54+01:00","level":"INFO","message":"Getting balance for user..."}
+{"time_stamp":"2022-04-11T09:57:54+01:00","level":"INFO","message":"Got the balance of 8bacf00c-7694-4532-baf3-24ce637b6786 successfully"}
+{"time_stamp":"2022-04-11T10:02:35+01:00","level":"INFO","message":"Checking user password..."}
+{"time_stamp":"2022-04-11T10:02:35+01:00","level":"INFO","message":"Found 8bacf00c-7694-4532-baf3-24ce637b6786 number of users"}
+{"time_stamp":"2022-04-11T10:02:35+01:00","level":"INFO","message":"Getting balance for user..."}
+{"time_stamp":"2022-04-11T10:02:35+01:00","level":"INFO","message":"Got the balance of 8bacf00c-7694-4532-baf3-24ce637b6786 successfully"}
+{"time_stamp":"2022-04-11T10:15:37+01:00","level":"Info","message":"started wallet-engine application on http://localhost:8000 in 206ns"}
+{"time_stamp":"2022-04-11T10:15:43+01:00","level":"INFO","message":"Checking user password..."}
+{"time_stamp":"2022-04-11T10:15:43+01:00","level":"INFO","message":"Found 8bacf00c-7694-4532-baf3-24ce637b6786 number of users"}
+{"time_stamp":"2022-04-11T10:15:43+01:00","level":"INFO","message":"Getting balance for user..."}
+{"time_stamp":"2022-04-11T10:15:43+01:00","level":"INFO","message":"Got the balance of 8bacf00c-7694-4532-baf3-24ce637b6786 successfully"}
+{"time_stamp":"2022-04-11T10:19:56+01:00","level":"Info","message":"started wallet-engine application on http://localhost:8000 in 199ns"}
+{"time_stamp":"2022-04-11T10:20:04+01:00","level":"INFO","message":"Checking user password..."}
+{"time_stamp":"2022-04-11T10:20:04+01:00","level":"INFO","message":"Found 8bacf00c-7694-4532-baf3-24ce637b6786 number of users"}
+{"time_stamp":"2022-04-11T10:20:04+01:00","level":"INFO","message":"Getting balance for user..."}
+{"time_stamp":"2022-04-11T10:20:04+01:00","level":"INFO","message":"Got the balance of 8bacf00c-7694-4532-baf3-24ce637b6786 successfully"}
+0
+{"time_stamp":"2022-04-11T10:22:42+01:00","level":"Info","message":"started wallet-engine application on http://localhost:8000 in 234ns"}
+{"time_stamp":"2022-04-11T10:23:29+01:00","level":"Info","message":"started wallet-engine application on http://localhost:8000 in 192ns"}
+{"time_stamp":"2022-04-11T10:23:36+01:00","level":"INFO","message":"Checking user password..."}
+{"time_stamp":"2022-04-11T10:23:36+01:00","level":"INFO","message":"Found 8bacf00c-7694-4532-baf3-24ce637b6786 number of users"}
+{"time_stamp":"2022-04-11T10:23:36+01:00","level":"INFO","message":"Getting balance for user..."}
+{"time_stamp":"2022-04-11T10:23:36+01:00","level":"INFO","message":"Got the balance of 8bacf00c-7694-4532-baf3-24ce637b6786 successfully"}
+balance []
+acct bal 0
+{"time_stamp":"2022-04-11T10:28:21+01:00","level":"Info","message":"started wallet-engine application on http://localhost:8000 in 220ns"}
+{"time_stamp":"2022-04-11T10:28:22+01:00","level":"INFO","message":"Checking user password..."}
+{"time_stamp":"2022-04-11T10:28:22+01:00","level":"INFO","message":"Found 8bacf00c-7694-4532-baf3-24ce637b6786 number of users"}
+{"time_stamp":"2022-04-11T10:28:22+01:00","level":"INFO","message":"Getting balance for user..."}
+{"time_stamp":"2022-04-11T10:28:22+01:00","level":"INFO","message":"Got the balance of 8bacf00c-7694-4532-baf3-24ce637b6786 successfully"}
+balance []
+currBal 0
+acct bal 0
+{"time_stamp":"2022-04-11T10:28:31+01:00","level":"INFO","message":"Checking user password..."}
+{"time_stamp":"2022-04-11T10:28:31+01:00","level":"INFO","message":"Found 8bacf00c-7694-4532-baf3-24ce637b6786 number of users"}
+{"time_stamp":"2022-04-11T10:28:31+01:00","level":"INFO","message":"Getting balance for user..."}
+{"time_stamp":"2022-04-11T10:28:31+01:00","level":"INFO","message":"Got the balance of 8bacf00c-7694-4532-baf3-24ce637b6786 successfully"}
+balance []
+currBal 0
+acct bal 0
+{"time_stamp":"2022-04-11T10:43:09+01:00","level":"Info","message":"started wallet-engine application on http://localhost:8000 in 200ns"}
+{"time_stamp":"2022-04-11T10:43:20+01:00","level":"INFO","message":"Checking user password..."}
+{"time_stamp":"2022-04-11T10:43:20+01:00","level":"INFO","message":"Found 8bacf00c-7694-4532-baf3-24ce637b6786 number of users"}
+{"time_stamp":"2022-04-11T10:43:20+01:00","level":"INFO","message":"Getting balance for user..."}
+{"time_stamp":"2022-04-11T10:43:20+01:00","level":"INFO","message":"Got the balance of 8bacf00c-7694-4532-baf3-24ce637b6786 successfully"}
+balance [0xc000193230]
+currBal 10000
+acct bal 10000
+{"time_stamp":"2022-04-11T10:43:20+01:00","level":"INFO","message":"Transaction saved successfully"}
+{"time_stamp":"2022-04-11T10:43:20+01:00","level":"INFO","message":"Transaction posted successfully."}
+{"time_stamp":"2022-04-11T10:47:08+01:00","level":"Info","message":"started wallet-engine application on http://localhost:8000 in 282ns"}
+{"time_stamp":"2022-04-11T10:47:28+01:00","level":"INFO","message":"Getting user by email..."}
+{"time_stamp":"2022-04-11T10:47:28+01:00","level":"INFO","message":"Found kjames@g.com number of users"}
+{"time_stamp":"2022-04-11T10:47:28+01:00","level":"INFO","message":"Wallet \u0026{aa0922b3-1029-4cce-ae62-bc0d3e06c2bd Kunle James kjames@g.com NGN  $2a$10$Rbsc6SgVoWTDd2wx31AvJ.TODzP1t/NsanRKKyCec86KM/k2iRWhC 01-01-2006 2022-04-11 09:47:28.154341 +0000 UTC false} created successfully"}
+{"time_stamp":"2022-04-11T10:48:39+01:00","level":"INFO","message":"Status changed."}
+{"time_stamp":"2022-04-11T10:48:48+01:00","level":"INFO","message":"Checking user password..."}
+{"time_stamp":"2022-04-11T10:48:48+01:00","level":"INFO","message":"Found aa0922b3-1029-4cce-ae62-bc0d3e06c2bd number of users"}
+{"time_stamp":"2022-04-11T10:48:48+01:00","level":"INFO","message":"Getting balance for user..."}
+{"time_stamp":"2022-04-11T10:48:48+01:00","level":"INFO","message":"Got the balance of aa0922b3-1029-4cce-ae62-bc0d3e06c2bd successfully"}
+{"time_stamp":"2022-04-11T10:48:48+01:00","level":"INFO","message":"Transaction saved successfully"}
+{"time_stamp":"2022-04-11T10:48:48+01:00","level":"INFO","message":"Transaction posted successfully."}
+{"time_stamp":"2022-04-11T10:49:45+01:00","level":"INFO","message":"Checking user password..."}
+{"time_stamp":"2022-04-11T10:49:45+01:00","level":"INFO","message":"Found aa0922b3-1029-4cce-ae62-bc0d3e06c2bd number of users"}
+{"time_stamp":"2022-04-11T10:49:45+01:00","level":"INFO","message":"Getting balance for user..."}
+{"time_stamp":"2022-04-11T10:49:45+01:00","level":"INFO","message":"Got the balance of aa0922b3-1029-4cce-ae62-bc0d3e06c2bd successfully"}
+balance []
+currBal 0
+acct bal 0
+{"time_stamp":"2022-04-11T10:50:04+01:00","level":"INFO","message":"Checking user password..."}
+{"time_stamp":"2022-04-11T10:50:04+01:00","level":"INFO","message":"Found aa0922b3-1029-4cce-ae62-bc0d3e06c2bd number of users"}
+{"time_stamp":"2022-04-11T10:50:04+01:00","level":"INFO","message":"Getting balance for user..."}
+{"time_stamp":"2022-04-11T10:50:04+01:00","level":"INFO","message":"Got the balance of aa0922b3-1029-4cce-ae62-bc0d3e06c2bd successfully"}
+balance []
+currBal 0
+acct bal 0
+{"time_stamp":"2022-04-11T10:51:00+01:00","level":"Info","message":"started wallet-engine application on http://localhost:8000 in 200ns"}
+{"time_stamp":"2022-04-11T10:51:12+01:00","level":"INFO","message":"Checking user password..."}
+{"time_stamp":"2022-04-11T10:51:12+01:00","level":"INFO","message":"Found aa0922b3-1029-4cce-ae62-bc0d3e06c2bd number of users"}
+{"time_stamp":"2022-04-11T10:51:12+01:00","level":"INFO","message":"Getting balance for user..."}
+{"time_stamp":"2022-04-11T10:51:12+01:00","level":"INFO","message":"Got the balance of aa0922b3-1029-4cce-ae62-bc0d3e06c2bd successfully"}
+{"time_stamp":"2022-04-11T10:51:12+01:00","level":"INFO","message":"Transaction saved successfully"}
+{"time_stamp":"2022-04-11T10:51:12+01:00","level":"INFO","message":"Transaction posted successfully."}
+{"time_stamp":"2022-04-11T10:51:33+01:00","level":"INFO","message":"Checking user password..."}
+{"time_stamp":"2022-04-11T10:51:33+01:00","level":"INFO","message":"Found aa0922b3-1029-4cce-ae62-bc0d3e06c2bd number of users"}
+{"time_stamp":"2022-04-11T10:51:33+01:00","level":"INFO","message":"Getting balance for user..."}
+{"time_stamp":"2022-04-11T10:51:33+01:00","level":"INFO","message":"Got the balance of aa0922b3-1029-4cce-ae62-bc0d3e06c2bd successfully"}
+balance [0xc0004049d8 0xc000404a20]
+currBal 20000
+acct bal 20000
+{"time_stamp":"2022-04-11T10:51:33+01:00","level":"INFO","message":"Transaction saved successfully"}
+{"time_stamp":"2022-04-11T10:51:33+01:00","level":"INFO","message":"Transaction posted successfully."}
